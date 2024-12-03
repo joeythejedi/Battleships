@@ -1,0 +1,17 @@
+battleship game
+
+run the class GUIGameLauncher to play!
+this is with the random computer strategy
+
+
+#clone:
+git clone https://github.com/yourusername/Battleships.git
+cd Battleships
+
+# compile
+
+javac -d bin $(find ./src -name "*.java")
+
+#run
+
+java -cp bin battleships.gui.GUIGameLauncher
