@@ -1,17 +1,22 @@
 battleship game
 
 run the class GUIGameLauncher to play!
-this is with the random computer strategy
+this is with the random computer strategy, with land and new ships enabled.
+
+## Requirements
+Before running this project, make sure you have the following installed:
+
+- **Java**: Version X.X (or later). [Download Java](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+- **IntelliJ IDEA**: [Download IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
+- **git**
+
+## Steps to Set Up the Project
+
+1. **Clone the Repository**:
+   First, clone this repository to your local machine. You can use the Git command line:
+enter this commnd into the command line
 
 
-#clone:
-git clone https://github.com/yourusername/Battleships.git
-cd Battleships
-
-# compile
-
-javac -d bin $(find ./src -name "*.java")
-
-#run
-
-java -cp bin battleships.gui.GUIGameLauncher
+"""
+   git clone https://github.com/joeythejedi/repository-name.git
+                                                                """
