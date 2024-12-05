@@ -20,3 +20,5 @@ enter this commnd into the command line
 """
    git clone https://github.com/joeythejedi/repository-name.git
                                                                 """
+
+then go to intelij, and run the project from GUIGameLauncher
